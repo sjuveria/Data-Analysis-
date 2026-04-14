@@ -1,0 +1,10 @@
+EmployeeID,FirstName,LastName,Age,Gender,JobTitle,Salary,StartDate,EndDate,LEN(B2),,Can be used to see difference between 100s and thousands. Can find bad Social Security numbers if they're 10 digits instead of 9
+1001,Jim,Halpert,30,Male,Salesman,45000,11/2/2001,9/6/2015,7,,
+1002,Pam,Beasley,30,Female,Receptionist,36000,10/3/1999,10/10/2015,7,,
+1003,Dwight,Schrute,29,Male,Salesman,63000,7/4/2000,9/8/2017,7,,
+1004,Angela,Martin,31,Female,Accountant,47000,1/5/2000,12/3/2015,6,,
+1005,Toby,Flenderson,32,Male,HR,50000,5/6/2001,8/30/2017,10,,
+1006,Michael,Scott,35,Male,Regional Manager,65000,12/7/1995,9/11/2013,5,,
+1007,Meredith,Palmer,32,Female,Supplier Relations,41000,11/8/2003,10/4/2013,6,,
+1008,Stanley,Hudson,38,Male,Salesman,48000,6/9/2002,4/22/2015,6,,
+1009,Kevin,Malone,31,Male,Accountant,42000,8/10/2003,9/14/2011,6,,
